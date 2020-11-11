@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Jeu de piste à l\'IUT</string>
+    <string name="aide">aide</string>
+    <string name="informations">Informations</string>
+    <string name="tutoriel">Tutoriel</string>
+    <string name="découvrez_l_iut_de_montpellier">Découvrez l\'IUT de Montpellier</string>
+    <string name="commencer">Commencer</string>
+    <string name="jeu_de_piste_l_iut">Jeu de piste à l\'IUT</string>
+    <string name="todo">TODO</string>
+    <string name="nom_batiment">Nom Batiment</string>
+    <string name="description_batiment">Description batiment jjjjjjjjjjjjjjjjjjjjjjjjj</string>
+    <string name="prochain_batiment">Prochain Batiment : </string>
+    <string name="prochain_batiment_btn">Prochain Batiment</string>
+    <string name="bat_a">BAT A</string>
+    <string name="j_y_suis">J\'y suis</string>
+    <string name="retour_au_menu">Retour au menu</string>
+    <string name="bravotxt">Bravo, vous avez terminé la visite de l\'IUT</string>
+    <string name="bravotxtE">Bien hecho, has terminado la visita de IUT</string>
+    <string name="bravotxtA">Well done, you have finished the IUT visit</string>
+    <string name="endtxt">Nous espérons que vous avez apprécié votre découverte grâce à notre application</string>
+    <string name="endtxtA">We hope you enjoyed your discovery thanks to our application</string>
+    <string name="endtxtE">Esperamos que haya disfrutado su descubrimiento gracias a nuestra aplicación</string>
+    <string name="retour_menu">Retour à l\'accueil</string>
+    <string name="infoE" >Bienvenido a la búsqueda del tesoro en el IUT.
+        \nSomos tres estudiantes en IT DUT, Enzo Firmino, Laurie Gosselin y Tom L’Hermenier, y creamos esta aplicación como parte de nuestro proyecto tutorial del semestre 3.
+        \nGracias a este juego, puedes descubrir el IUT mientras te diviertes. Vaya al edificio indicado, descubra la información sobre el departamento y sus anécdotas, y responda las preguntas para poder avanzar en su aventura.
+        \nVisitará todo el campus de IUT, descubriendo todos los departamentos y los edificios que ocupan. También verá los diferentes proyectos implementados por estudiantes y para estudiantes.
+        \n¿Quieres saber más sobre el IUT o planeas unirte a nosotros? así que comienza la búsqueda del tesoro ahora y descubre la historia y los secretos de la IUT de Montpellier.</string>
+    <string name="infoA" >Welcome to the treasure hunt at the IUT.
+        \nWe are three students in IT DUT, Enzo Firmino, Laurie Gosselin and Tom L’Hermenier, and we created this application as part of our tutorial project of semester 3.
+        \nThanks to this game, you can discover the IUT while having fun. Go to the indicated building, discover the information on the department and its anecdotes, and answer the questions to be able to advance in your adventure.
+        \nYou will visit the entire IUT campus, discovering all the departments and the buildings they occupy. You will also see the different projects implemented by students and for students.
+        \nDo you want to know more about the IUT or do you plan to join us? so start the treasure hunt now and discover the history and secrets of the Montpellier IUT.</string>
+    <string name="info">Bienvenue sur le jeu de piste à l\'IUT.
+        \nNous sommes trois étudiants en DUT informatique, Enzo Firmino, Laurie Gosselin et Tom L\'Hermenier, et nous avons créé cette application dans le cadre de notre projet tutoré du semestre 3.
+        \nGrâce à ce jeu, vous pouvez découvrir l\'IUT en vous amusant. Rendez-vous au bâtiment indiqué, découvrez les informations sur le département et ses anecdotes, et répondez aux questions pour pouvoir avancer dans votre aventure.
+        \nVous visiterez l\'intégralité du campus de l\'IUT, en découvrant tous les départements et les bâtiments qu\'ils occupent.  Vous apercevrez aussi les différents projets mis en place par les étudiants et pour les étudiants.
+        \nVous souhaitez en savoir plus sur l\'IUT ou vous envisagez de nous rejoindre?  alors commencez le jeu de piste dès maintenant et découvrez l’histoire et les secrets de l\'IUT de Montpellier.</string>
+    <string name="recommencer">Recommencer</string>
+    <string name="langue">langue</string>
+    <string name="tutoA">Tutorial</string>
+    <string name="tutoE">Tutorial</string>
+    <string name="tutorialText">- Cliquez sur le bouton pour commencer
+        \n- Rendez-vous au bâtiment indiqué
+        \n- Découvrez les informations et anecdotes
+        \n- Répondez aux questions pour débloquer le prochain lieu
+        \n- Rendez-vous sur le prochain lieu
+        \n- Et bien entendu surtout: Amusez vous!!</string>
+    <string name="tutorialTextA">- Click on the button to start
+        \n- Meeting at the indicated building
+        \n- Discover the information and anecdotes
+        \n- Answer the questions to unlock the next place
+        \n- See you at the next place
+        \n- And above all: Have fun !!</string>
+    <string name="tutorialTextE">- Haga clic en el botón para comenzar
+        \n- Reunirse en el edificio indicado
+        \n- Descubre la información y anécdotas
+        \n- Responde las preguntas para desbloquear el siguiente lugar
+        \n- Nos vemos en el próximo lugar
+        \n- Y sobre todo: ¡Diviértete!</string>
+</resources>

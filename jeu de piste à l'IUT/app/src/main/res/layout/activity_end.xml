@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".controller.EndActivity">
+
+    <TextView
+        android:id="@+id/activity_end_bravo_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bravotxt"
+        android:gravity="center"
+        android:padding="30dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/activity_end_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/endtxt"
+        android:textSize="20sp"
+        android:padding="30dp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/activity_end_retour_main_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/holo_blue_dark"
+        android:padding="10dp"
+        android:text="@string/retour_menu"/>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controller.MapActivity"
+    android:orientation="vertical"
+    tools:ignore="UseCompoundDrawables">
+
+    <TextView
+        android:id="@+id/activity_map_prochain_bat_txt"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="20dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="10dp"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_blue_dark"
+        android:text= "@string/prochain_batiment"
+        tools:targetApi="o" />
+
+    <com.github.chrisbanes.photoview.PhotoView
+        android:id="@+id/activity_map_map_img"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/map" />
+
+    <Button
+        android:id="@+id/activity_map_jysuis_btn"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        android:text="@string/j_y_suis"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="@android:color/white"
+        android:paddingLeft="@android:dimen/app_icon_size"
+        android:paddingRight="@android:dimen/app_icon_size"
+        android:layout_gravity="center" />
+
+    <Button
+        android:id="@+id/activity_map_retour_main_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/retour_au_menu"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="@android:color/white"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="20dp"
+        android:paddingRight="20dp"
+        android:layout_gravity="center" />
+
+</LinearLayout>

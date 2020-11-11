@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controller.InfoActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/activity_info_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/informations"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_dark"
+        android:paddingVertical="20dp"
+        android:textSize="30sp" >
+
+    </TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/activity_info_info_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:paddingHorizontal="20dp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="2dp"
+                android:textSize="20sp"
+                android:text="@string/info"/>
+
+
+            <Button
+                android:id="@+id/activity_info_retour_main_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/retour_au_menu"
+                android:background="@android:color/holo_blue_dark"
+                android:textColor="@android:color/white"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:layout_marginVertical="50dp"
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
